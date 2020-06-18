@@ -1,0 +1,130 @@
+﻿TRNSCTN_ID,DOCTOR_ID,CUSTOMER_ID,HOSPITAL_NM,HOSPITAL_ID,TRANSACTION_ID,ROOT_DIEASE,SUB_DIEASE,ROOT_DISEASE_CD,SUB_DISEASE_CD,LOS,READMISSION_30,READMISSION_60,TREATMENT_DAYS,COST,FEEDBACK,CREATE_DT,UPDATE_DT,AGE
+1,D001,P002,cmc,CMC002,auto generation,cardio,heart valve diease,1,11,0,0,0,1,10000,poor,28-09-2019,31-01-2020,20
+2,D001,P001,cmc,CMC002,auto generation,cardio,stroke,1,55,25,1,0,0,50000,excellent,28-09-2019,31-01-2020,20
+3,D002,P003,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,low back pain,3,33,2,0,0,2,1000,excellent,06-10-2019,01-02-2020,20
+4,D002,P008,Apollo hospital,APP002,auto generation,orthopaedics,low back pain,3,33,0,1,0,1,3500,good,17-11-2019,07-02-2020,20
+5,D002,P0011,SRM hospital,SRM012,auto generation,orthopaedics,low back pain,3,33,0,1,0,1,4000,good,19-12-2019,12-02-2020,20
+6,D002,P0016,MIOT international hospital,MIO005,auto generation,orthopaedics,knee pain and prob,3,66,3,0,1,0,5000,poor,03-01-2020,20-02-2020,25
+7,D002,P0020,Apollo hospital,APP002,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,2,2500,excellent,12-01-2020,28-02-2020,25
+8,D003,P004,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,low back pain,3,33,0,1,0,1,2000,good,12-10-2019,02-02-2020,25
+9,D003,P008,MIOT international hospital,MIO005,auto generation,orthopaedics,low back pain,3,33,0,0,0,1,2000,excellent,21-12-2019,14-02-2020,25
+10,D003,P009,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,low back pain,3,33,0,1,1,2,2500,poor,17-11-2019,08-02-2020,25
+11,D003,P0017,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,3500,excellent,04-01-2020,21-02-2020,25
+12,D003,P0020,SRM hospital,SRM012,auto generation,orthopaedics,knee pain and prob,3,66,0,0,1,1,2500,good,10-01-2020,26-02-2020,25
+13,D004,P005,SRM hospital,SRM012,auto generation,orthopaedics,low back pain,3,33,0,0,0,3,1000,excellent,13-10-2019,03-02-2020,25
+14,D004,P007,SRM hospital,SRM012,auto generation,orthopaedics,low back pain,3,33,2,0,1,0,4000,good,16-11-2019,06-02-2020,15
+15,D004,P009,MIOT international hospital,MIO005,auto generation,orthopaedics,low back pain,3,33,3,0,0,0,1500,excellent,14-12-2019,09-02-2020,15
+16,D004,P0014,Kauvery hospital,KAU007,auto generation,orthopaedics,knee pain and prob,3,66,2,1,1,0,2000,poor,01-01-2020,17-02-2020,15
+17,D004,P0015,Apollo hospital,APP002,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,3500,excellent,03-01-2020,19-02-2020,15
+18,D004,P0018,MIOT international hospital,MIO005,auto generation,orthopaedics,knee pain and prob,3,66,0,1,0,3,2000,good,05-01-2020,22-02-2020,15
+19,D004,P0022,Kauvery hospital,KAU007,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,2,3500,excellent,16-01-2020,01-03-2020,30
+20,D005,P006,Apollo hospital,APP002,auto generation,orthopaedics,low back pain,3,33,0,0,0,1,4500,excellent,14-10-2019,04-02-2020,30
+21,D005,P007,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,2,3000,excellent,22-12-2019,15-02-2020,30
+22,D005,P0010,Kauvery hospital,KAU007,auto generation,orthopaedics,low back pain,3,33,0,0,1,3,1000,good,17-12-2019,10-02-2020,30
+23,D005,P0012,Apollo hospital,APP002,auto generation,orthopaedics,low back pain,3,33,2,0,0,0,2000,excellent,20-12-2019,13-02-2020,30
+24,D005,P0016,SRM hospital,SRM012,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,1500,good,07-01-2020,23-02-2020,30
+25,D005,P0021,Apollo hospital,APP002,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,3000,excellent,15-01-2020,29-02-2020,45
+26,D006,P004,MIOT international hospital,MIO005,auto generation,orthopaedics,low back pain,3,33,0,0,0,1,2000,good,15-11-2019,05-02-2020,45
+27,D006,P009,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,low back pain,3,33,0,0,0,2,2500,excellent,18-12-2019,11-02-2020,45
+28,D006,P0013,MIOT international hospital,MIO005,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,5000,excellent,01-01-2020,16-02-2020,45
+29,D006,P0019,Apollo hospital,APP002,auto generation,orthopaedics,knee pain and prob,3,66,0,1,0,2,4000,good,08-01-2020,24-02-2020,62
+30,D006,P0023,dr.kamakshi memorial hospital,DRK004,auto generation,orthopaedics,knee pain and prob,3,66,2,0,0,0,1500,excellent,17-01-2020,02-03-2020,62
+31,D007,P0014,SRM hospital,SRM012,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,2,1000,excellent,02-01-2020,18-02-2020,62
+32,D007,P0018,MIOT international hospital,MIO005,auto generation,orthopaedics,knee pain and prob,3,66,0,0,0,1,4500,excellent,09-01-2020,25-02-2020,62
+33,D008,P0021,Kauvery hospital,KAU007,auto generation,orthopaedics,knee pain and prob,3,66,4,1,0,0,3000,poor,11-01-2020,27-02-2020,62
+34,D009,P0024,cmc,CMC002,auto generation,cardio,stroke,1,55,25,1,0,0,50000,excellent,27-09-2019,20-02-2020,70
+35,D0010,P0025,cmc,CMC002,auto generation,cardio,heart valve diease,1,11,0,0,0,1,10000,poor,28-09-2019,31-01-2020,70
+36,D0011,P0026,ABC Hospital,ABC001,auto generation,orthopaedics,fractures,3,77,14,0,0,0,12000,Average,12-10-2019,02-02-2020,70
+37,D0011,P0039,ABC Hospital,ABC001,auto generation,orthopaedics,fractures,3,77,3,1,0,25,5200,Good,22-12-2019,15-02-2020,70
+38,D0012,P0027,vasanthi Orthopedic Hospital,VAS014,auto generation,orthopaedics,Osteoarthitis,3,99,30,0,0,0,20000,Poor,13-10-2019,03-02-2020,70
+39,D0013,P0028,Ann’s hospital,ANN001,auto generation,orthopaedics,fractures,3,77,40,1,1,4,50000,poor,14-10-2019,04-02-2020,12
+40,D0014,P0030,Ivan’s hospital,IVA006,auto generation,orthopaedics,fractures,3,77,2,1,0,14,7800,Good,16-11-2019,06-02-2020,12
+41,D0014,P0042,Ann’s hospital,ANN001,auto generation,orthopaedics,fractures,3,77,18,0,0,3,16000,average,02-01-2020,18-02-2020,12
+42,D0014,P0046,Ivan’s hospital,IVA006,auto generation,orthopaedics,Osteoarthitis,3,99,14,0,0,60,20000,Average,05-01-2020,22-02-2020,12
+43,D0015,P0029,Sappien’s hospital,SAP009,auto generation,orthopaedics,fractures,3,77,1,0,0,10,9000,Good,15-11-2019,05-02-2020,12
+44,D0015,P0043,Sappien’s hospital,SAP009,auto generation,orthopaedics,fractures,3,77,0,0,0,60,3700,Poor,03-01-2020,19-02-2020,12
+45,D0016,P0031,Sean’s hospital,SEA010,auto generation,orthopaedics,fractures,3,77,6,0,1,36,9000,Good,17-11-2019,07-02-2020,24
+46,D0017,P0032,SVK hospital,SVK013,auto generation,orthopaedics,fractures,3,77,12,1,0,1,8999,Average,17-11-2019,08-02-2020,24
+47,D0017,P0041,SVK hospital,SVK013,auto generation,orthopaedics,fractures,3,77,0,0,0,45,4200,average,01-01-2020,17-02-2020,24
+48,D0018,P0033,ABC Hospital,ABC001,auto generation,orthopaedics,fractures,3,77,14,2,0,30,13000,Poor,14-12-2019,09-02-2020,24
+49,D0018,P0034,ABC Hospital,ABC001,auto generation,orthopaedics,Osteoarthitis,3,99,3,0,0,47,18000,good,17-12-2019,10-02-2020,24
+50,D0019,P0035,Sappien’s hospital,SAP009,auto generation,orthopaedics,Osteoarthitis,3,99,7,0,0,40,16000,Good,18-12-2019,11-02-2020,24
+51,D0019,P0036,Greg’s hospital,GRE005,auto generation,orthopaedics,Osteoarthitis,3,99,10,1,0,50,21000,average,19-12-2019,12-02-2020,46
+52,D0020,P0037,Dan hospital,DAN003,auto generation,orthopaedics,fractures,3,77,14,0,1,7,15000,Good,20-12-2019,13-02-2020,46
+53,D0021,P0045,Sean’s hospital,SEA010,auto generation,orthopaedics,fractures,3,77,1,1,1,76,13000,Poor,04-01-2020,21-02-2020,46
+54,D0022,P0038,AJAD hospital,AJA013,auto generation,orthopaedics,fractures,3,77,1,0,1,70,6700,average,21-12-2019,14-02-2020,46
+55,D0023,P0040,Dan hospital,DAN003,auto generation,orthopaedics,fractures,3,77,6,0,0,14,8500,Good,01-01-2020,16-02-2020,46
+56,D0024,P0047,Ivan’s hospital,IVA006,auto generation,orthopaedics,Osteoarthitis,3,99,11,0,0,45,16500,average,07-01-2020,23-02-2020,46
+57,D0025,P0044,Dan hospital,DAN003,auto generation,orthopaedics,Osteoarthitis,3,99,8,0,1,80,17000,Poor,03-01-2020,20-02-2020,34
+58,D0026,P0048,Ivan’s hospital,IVA006,auto generation,orthopaedics,Osteoarthitis,3,99,5,0,0,37,18000,Good,08-01-2020,24-02-2020,34
+59,D0027,P0049,ABC Hospital,ABC001,auto generation,orthopaedics,Osteoarthitis,3,99,8,0,1,57,23000,Poor,09-01-2020,25-02-2020,34
+60,D0028,P0050,Dan hospital,DAN003,auto generation,orthopaedics,Osteoarthitis,3,99,6,0,0,49,15000,Good,10-01-2020,26-02-2020,34
+61,D0029,P0051,ABC Hospital,ABC001,auto generation,orthopaedics,Osteoarthitis,3,99,13,1,0,39,14000,Good,11-01-2020,27-02-2020,34
+62,D0030,P0052,Ann’s hospital,ANN001,auto generation,orthopaedics,Osteoarthitis,3,99,21,0,0,2,19000,average,12-01-2020,28-02-2020,34
+63,D0031,P0053,Sean’s hospital,SEA010,auto generation,orthopaedics,Osteoarthitis,3,99,17,0,1,3,17600,Average,15-01-2020,29-02-2020,34
+64,D0032,P0054,Sean’s hospital,SEA010,auto generation,orthopaedics,Osteoarthitis,3,99,12,0,0,21,18560,Average,16-01-2020,01-03-2020,47
+65,D0033,P0055,AJAD hospital,AJA013,auto generation,orthopaedics,Osteoarthitis,3,99,7,0,0,45,14500,Good,17-01-2020,02-03-2020,47
+66,D0034,P0082,Mayo Clinic,MAY015,auto generation,Gynaecology,infertility,2,22,5,0,0,0,50000,excellent,11-01-2019,15-11-2019,47
+67,D0034,P0066,Mayo Clinic,MAY015,auto generation,Gynaecology,infertility,2,22,10,1,0,0,200000,Poor,01-01-2020,01-11-2020,47
+68,D0035,P0072,A4 Hospital,A4H014,auto generation,Gynaecology,PCOS,2,44,0,0,0,11,7000,excellent,01-12-2020,23-01-2020,47
+69,D0035,P0074,NN Hospital,NNH123,auto generation,Gynaecology,PCOS,2,44,0,0,0,7,6000,Poor,01-12-2020,21-01-2020,47
+70,D0036,P0058,Apollo,APO021,auto generation,Gynaecology,infertility,2,22,14,0,0,0,600000,poor,20-05-2019,06-05-2019,47
+71,D0036,P0065,Mothers Clinic,MOT031,auto generation,Gynaecology,infertility,2,22,8,3,0,0,100000,Good,09-09-2019,17-09-2019,18
+72,D0036,P0067,AK Fertility,AKF015,auto generation,Gynaecology,infertility,2,22,6,0,0,0,360000,excellent,01-10-2020,17-01-2020,18
+73,D0036,P0071,Mayo Clinic,MAY015,auto generation,Gynaecology,PCOS,2,44,0,0,0,12,8000,Poor,01-12-2020,22-01-2020,18
+74,D0037,P0076,Mayo Clinic,MAY015,auto generation,Gynaecology,PCOS,2,44,0,0,0,5,6000,Good,01-12-2020,17-01-2020,18
+75,D0037,P0077,PCMC,PCM011,auto generation,Gynaecology,PCOS,2,44,0,0,0,9,8000,Good,01-12-2020,21-01-2020,18
+76,D0038,P0056,N S Hospital,NSH012,auto generation,Gynaecology,infertility,2,22,0,0,0,8,30000,excellent,22-04-2019,10-10-2019,18
+77,D0038,P0068,Madhu Clinic,MAD201,auto generation,Gynaecology,infertility,2,22,3,0,0,0,40000,Poor,01-11-2020,14-01-2020,27
+78,D0038,P0070,Mathura Clinic,MAT022,auto generation,Gynaecology,PCOS,2,44,0,0,0,8,6000,Good,01-12-2020,20-01-2020,27
+79,D0038,P0075,Madhu Clinic,MAD201,auto generation,Gynaecology,PCOS,2,44,0,0,0,8,6000,Poor,01-12-2020,20-01-2020,27
+80,D0039,P0060,Mayo Clinic,MAY015,auto generation,Gynaecology,infertility,2,22,4,2,3,0,150000,Poor,07-05-2019,09-08-2019,27
+81,D0039,P0071,Apollo,APO021,auto generation,Gynaecology,PCOS,2,44,0,0,0,23,6000,Good,01-12-2020,02-05-2020,27
+82,D0040,P0057,Madhu Clinic,MAD201,auto generation,Gynaecology,infertility,2,22,8,0,0,0,100000,poor,05-11-2019,19-05-2019,27
+83,D0040,P0074,Mothers Clinic,MOT031,auto generation,Gynaecology,PCOS,2,44,0,0,0,2,6000,excellent,01-12-2020,14-01-2020,27
+84,D0041,P0075,Mayo Clinic,MAY015,auto generation,Gynaecology,PCOS,2,44,0,0,0,12,9000,Poor,01-12-2020,22-01-2020,33
+85,D0042,P0063,Madhu Clinic,MAD201,auto generation,Gynaecology,infertility,2,22,7,0,1,0,80000,Good,07-09-2019,15-07-2019,33
+86,D0042,P0073,Madhu Clinic,MAD201,auto generation,Gynaecology,PCOS,2,44,0,0,0,4,8000,excellent,01-12-2020,16-01-2020,33
+87,D0042,P0080,Apollo,APO021,auto generation,Gynaecology,PCOS,2,44,0,0,0,17,4000,Poor,01-12-2020,27-01-2020,33
+88,D0043,P0082,Madhu Clinic,MAD201,auto generation,Gynaecology,infertility,2,22,2,0,0,0,50000,excellent,10-10-2019,10-12-2019,33
+89,D0043,P0078,N S Hospital,NSH012,auto generation,Gynaecology,PCOS,2,44,0,0,0,11,6000,excellent,01-12-2020,23-01-2020,33
+90,D0044,P0079,Madhu Clinic,MAD201,auto generation,Gynaecology,PCOS,2,44,0,0,0,16,6000,excellent,01-12-2020,26-01-2020,33
+91,D0045,P0058,Apollo,APO021,auto generation,Gynaecology,infertility,2,22,9,1,0,0,70000,Good,27-06-2019,07-06-2019,45
+92,D0045,P0064,NN Hospital,NNH123,auto generation,Gynaecology,PCOS,2,44,0,0,0,8,5000,Poor,08-08-2019,16-08-2019,45
+93,D0045,P0069,PCMC,PCM011,auto generation,Gynaecology,infertility,2,22,8,1,0,0,500000,Poor,13-01-2020,23-01-2020,45
+94,D0045,P0081,Mothers Clinic,MOT031,auto generation,Gynaecology,PCOS,2,44,0,0,0,5,6000,excellent,01-12-2020,17-01-2020,45
+95,D0046,P0061,Apollo,APO021,auto generation,Gynaecology,infertility,2,22,0,0,0,45,300000,excellent,07-06-2019,15-08-2019,45
+96,D0047,P0076,Madhu Clinic,MAD201,auto generation,Gynaecology,PCOS,2,44,0,0,0,8,7000,Poor,01-12-2020,20-01-2020,44
+97,D0048,P0059,Mathura Clinic,MAT022,auto generation,Gynaecology,infertility,2,22,0,0,0,15,60000,excellent,07-05-2019,20-07-2019,44
+98,D0049,P0062,A4 Hospital,A4H014,auto generation,Gynaecology,PCOS,2,44,0,0,0,4,5000,Good,07-08-2019,07-12-2019,44
+99,D0050,P0057,Apollo,APO021,auto generation,Gynaecology,infertility,2,22,10,0,0,0,500000,excellent,15-06-2019,25-06-2019,39
+100,D0051,P0083,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,45,1,0,45,20000,Bad,28-09-2019,31-01-2020,39
+101,D0051,P0086,Vijaya Group of Hospitals,VGH001,auto generation,cardio,vascular disease,1,88,30,0,0,30,30000,Good,28-09-2019,31-01-2020,39
+102,D0051,P0093,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,55,1,0,55,80000,Good,06-10-2019,01-02-2020,39
+103,D0051,C0004,Fortis Malar Hospital,FM0001,auto generation,cardio,heart valve disease,1,11,0,0,0,40,80000,Bad,17-11-2019,07-02-2020,39
+104,D0052,P0084,Sevanhills Hospital,SVH001,auto generation,cardio,heart valve disease,1,11,20,0,0,20,10000,Average,19-12-2019,12-02-2020,52
+105,D0052,P0086,Sevanhills Hospital,SVH001,auto generation,cardio,heart valve disease,1,11,40,1,0,40,45000,Good,03-01-2020,20-02-2020,52
+106,D0052,P0088,Fortis Malar Hospital,FM0001,auto generation,cardio,heart valve disease,1,11,50,1,0,50,50000,Good,12-01-2020,28-02-2020,52
+107,D0052,P0098,Sevanhills Hospital,SVH001,auto generation,cardio,vascular disease,1,88,0,0,0,10,15000,Bad,12-10-2019,02-02-2020,52
+108,D0053,P0085,Fortis Malar Hospital,FM0001,auto generation,cardio,heart valve disease,1,11,75,1,1,75,70000,Good,21-12-2019,14-02-2020,52
+109,D0053,P0090,Fortis Malar Hospital,FM0001,auto generation,cardio,vascular disease,1,88,15,0,0,15,13000,Bad,17-11-2019,08-02-2020,52
+110,D0053,P0089,Global Hospital,GH001,auto generation,cardio,vascular disease,1,88,25,0,0,25,25000,Average,04-01-2020,21-02-2020,52
+111,D0054,P0094,Prashanth Hospital,PH0001,auto generation,cardio,vascular disease,1,88,0,0,0,45,18000,Bad,10-01-2020,26-02-2020,52
+112,D0054,P0092,Prashanth Hospital,PH0001,auto generation,cardio,vascular disease,1,88,10,0,0,10,25000,Good,13-10-2019,03-02-2020,52
+113,D0055,P0095,Kohinoor Hospital,KOH001,auto generation,cardio,vascular disease,1,88,30,0,0,30,10000,Average,16-11-2019,06-02-2020,52
+114,D0055,C0001,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,70,1,1,70,90000,Average,14-12-2019,09-02-2020,57
+115,D0056,P0096,Global Hospital,GH001,auto generation,cardio,vascular disease,1,88,45,1,0,45,30000,Average,01-01-2020,17-02-2020,57
+116,D0056,C0002,Kohinoor Hospital,KOH001,auto generation,cardio,heart valve disease,1,11,50,1,0,50,90000,Good,03-01-2020,19-02-2020,57
+117,D0057,P0097,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,25,0,0,25,40000,Good,05-01-2020,22-02-2020,57
+118,D0057,P0091,Prashanth Hospital,PH0001,auto generation,cardio,vascular disease,1,88,30,0,0,30,30000,Bad,16-01-2020,01-03-2020,57
+119,D0058,P0099,Fortis Malar Hospital,FM0001,auto generation,cardio,heart valve disease,1,11,44,1,0,44,85000,Average,14-10-2019,04-02-2020,57
+120,D0058,P0087,Sevanhills Hospital,SVH001,auto generation,cardio,vascular disease,1,88,10,0,0,10,20000,Bad,22-12-2019,15-02-2020,57
+121,D0058,P0094,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,0,0,0,40,60000,Good,17-12-2019,10-02-2020,57
+122,D0059,C006,Vijaya Group of Hospitals,VGH001,auto generation,cardio,vascular disease,1,88,25,0,0,25,15000,Good,20-12-2019,13-02-2020,57
+123,D0059,C007,Sevanhills Hospital,SVH001,auto generation,cardio,vascular disease,1,88,12,0,0,12,30000,Good,07-01-2020,23-02-2020,57
+124,D0060,C008,Sevanhills Hospital,SVH001,auto generation,cardio,vascular disease,1,88,50,1,0,50,50000,Good,15-01-2020,29-02-2020,57
+125,D0060,C009,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,45,1,1,45,20000,Good,15-11-2019,05-02-2020,57
+126,D0060,C0003,Prashanth Hospital,PH0001,auto generation,cardio,heart valve disease,1,11,0,0,0,10,22000,Average,18-12-2019,11-02-2020,57
+127,D0061,C0010,Fortis Malar Hospital,FM0001,auto generation,cardio,vascular disease,1,88,65,1,1,65,95000,Good,01-01-2020,16-02-2020,57
+128,D0062,C0011,Vijaya Group of Hospitals,VGH001,auto generation,cardio,heart valve disease,1,11,80,1,1,80,45000,Average,08-01-2020,24-02-2020,57
+129,D0062,C0005,Fortis Malar Hospital,FM0001,auto generation,cardio,vascular disease,1,88,0,0,0,25,45000,Bad,17-01-2020,02-03-2020,57
