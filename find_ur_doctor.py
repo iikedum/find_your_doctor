@@ -19,14 +19,14 @@ def home():
     dataset.isnull().sum()
     dataset.drop_duplicates(inplace=True)
     X = dataset.iloc[:, [9]].values
-    #Y = dataset.iloc[:, [10]].values
+    Y = dataset.iloc[:, [10]].values
     CHECK_VAL = []
     k_rng = range(1, 11)
     for kval in k_rng:
         km = KMeans(n_clusters=kval)
         km.fit(X)
         CHECK_VAL.append(km.inertia_)
-    #wcss = []
+    wcss = []
     clusdict = {}
     princlus = {}
     for n_cluster in range(2, 11):
